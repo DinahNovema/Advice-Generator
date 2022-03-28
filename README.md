@@ -16,6 +16,7 @@ Your users should be able to:
 Built with:
 - Semantic HTML5 
 - CSS custom properties
+- JavaScript
 - Flexbox
 - Advice Slip API (https://api.adviceslip.com/) using Async/Await Function
 
