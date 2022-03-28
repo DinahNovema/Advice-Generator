@@ -19,5 +19,6 @@ Built with:
 - JavaScript
 - Flexbox
 - Advice Slip API (https://api.adviceslip.com/) using Async/Await Function
+- Responsive Design
 
 Deployed on Netlify: https://advice-generator-dinah.netlify.app/
