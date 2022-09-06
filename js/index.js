@@ -19,7 +19,6 @@ const showAdvices = async () => {
     console.log(err.message);
   }
 };
-
 showAdvices();
 
 newAdvice.addEventListener("click", showAdvices);
